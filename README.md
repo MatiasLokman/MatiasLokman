@@ -1,6 +1,6 @@
 # Hi, I'm Matías 👋🏼👨🏽‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Matias Lokman - Full stack web developer, web designer & freelancer alongside a cartoon illustration">
+<img src="https://github.com/MatiasLokman/MatiasLokman/blob/main/Github.jpg" alt="banner that says Matias Lokman - Full stack web developer, web designer & freelancer alongside a cartoon illustration">
 
 I'm 19 years old and I perform as a Full Stack Web Developer, using both Front-end and Back-end technologies.
 
