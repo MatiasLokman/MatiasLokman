@@ -1,4 +1,4 @@
-# Hi, I'm Matías 👋🏼👨🏽‍💻
+# Hi, I'm Matías 👋🏼
 
 <img src="https://github.com/MatiasLokman/MatiasLokman/blob/main/Github.jpg" alt="banner that says Matias Lokman - Full stack web developer, web designer & freelancer alongside a cartoon illustration">
 
