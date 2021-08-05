@@ -48,4 +48,5 @@ I perform as a Full Stack Web Developer, using both Front-end and Back-end techn
 <a href="https://www.linkedin.com/in/matías-gabriel-lokman" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 ---
