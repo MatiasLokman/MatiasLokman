@@ -39,9 +39,9 @@ I'm 19 years old and I perform as a Full Stack Web Developer, using both Front-e
 
 ### Languages
 
-- Spanish
-- English
-- Hebrew
+- Spanish <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/es.png" heigth="25px" width="25px">
+- English <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/gb.png" heigth="25px" width="25px">
+- Hebrew <img src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/il.png" heigth="25px" width="25px">
 ---
 
 ### Social media & more about me
