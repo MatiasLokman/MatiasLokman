@@ -2,7 +2,7 @@
 
 <img src="https://github.com/MatiasLokman/MatiasLokman/blob/main/Github.jpg" alt="banner that says Matias Lokman - Full stack web developer, web designer & freelancer alongside a cartoon illustration">
 
-I'm 20 years old and I perform as a Full Stack Web Developer, using both Front-end and Back-end technologies.
+I'm 21 years old and I perform as a Full Stack Web Developer, using both Front-end and Back-end technologies.
 
 ---
 
