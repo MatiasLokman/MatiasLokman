@@ -24,7 +24,9 @@ I'm 21 years old and I perform as a Full Stack Web Developer, using both Front-e
 ![ExpressJS](https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-007195?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
