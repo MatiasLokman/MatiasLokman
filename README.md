@@ -2,11 +2,11 @@
 
 <img src="https://github.com/MatiasLokman/MatiasLokman/blob/main/Github.jpg" alt="banner that says Matias Lokman - Full stack web developer, web designer & freelancer alongside a cartoon illustration">
 
-I'm 21 years old and I perform as a Full Stack Web Developer, using both Front End and Back End technologies.
+I'm 22 years old and I perform as a Full Stack Web Developer.
 
 ---
 
-## Front End tools & technologies
+## Frontend core technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ I'm 21 years old and I perform as a Full Stack Web Developer, using both Front E
 
 ---
 
-## Back End tools & technologies
+## Backend core technologies
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -32,24 +32,6 @@ I'm 21 years old and I perform as a Full Stack Web Developer, using both Front E
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-007195?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## Servers
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-
----
-
-## Other tools & technologies
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ---
 
