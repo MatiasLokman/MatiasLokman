@@ -2,7 +2,7 @@
 
 <img src="https://github.com/MatiasLokman/MatiasLokman/blob/main/Github.jpg" alt="banner that says Matias Lokman - Full stack web developer, web designer & freelancer alongside a cartoon illustration">
 
-I'm 22 years old and I perform as a Full Stack Web Developer.
+I'm 23 years old and I perform as a Full Stack Web Developer.
 
 ---
 
@@ -21,9 +21,6 @@ I'm 22 years old and I perform as a Full Stack Web Developer.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SWAGGER](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ---
 
